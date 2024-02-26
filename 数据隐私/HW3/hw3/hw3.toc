@@ -1,0 +1,25 @@
+\contentsline {section}{\numberline {1}Permutation Cipher}{ii}{}%
+\contentsline {subsection}{\numberline {1.1}(a)}{ii}{}%
+\contentsline {subsection}{\numberline {1.2}(b)}{ii}{}%
+\contentsline {section}{\numberline {2}Perfect Secrecy}{ii}{}%
+\contentsline {subsection}{\numberline {2.1}(a)}{ii}{}%
+\contentsline {subsection}{\numberline {2.2}(b)}{iii}{}%
+\contentsline {section}{\numberline {3}RSA}{iii}{}%
+\contentsline {subsection}{\numberline {3.1}(a)}{iii}{}%
+\contentsline {subsection}{\numberline {3.2}(b)}{iv}{}%
+\contentsline {subsection}{\numberline {3.3}(c)}{iv}{}%
+\contentsline {section}{\numberline {4}Multi-Party Computation}{v}{}%
+\contentsline {subsection}{\numberline {4.1}(a)Paillier encryption}{v}{}%
+\contentsline {subsubsection}{\numberline {4.1.1}Encryption}{v}{}%
+\contentsline {subsubsection}{\numberline {4.1.2}Homomorphic Addition of Paillier}{vi}{}%
+\contentsline {subsection}{\numberline {4.2}(b)Secret Sharing}{vi}{}%
+\contentsline {section}{\numberline {5}Computational Security}{vi}{}%
+\contentsline {subsection}{\numberline {5.1}(a)}{vi}{}%
+\contentsline {subsection}{\numberline {5.2}(b)}{vii}{}%
+\contentsline {subsubsection}{\numberline {5.2.1}Difinition}{vii}{}%
+\contentsline {subsubsection}{\numberline {5.2.2}Lemmas}{vii}{}%
+\contentsline {subsubsection}{\numberline {5.2.3}Prove}{viii}{}%
+\contentsline {subsection}{\numberline {5.3}(c)}{x}{}%
+\contentsline {subsubsection}{\numberline {5.3.1}$f + g$}{x}{}%
+\contentsline {subsubsection}{\numberline {5.3.2}$f\cdot g$}{x}{}%
+\contentsline {subsubsection}{\numberline {5.3.3}$f / g$}{x}{}%
